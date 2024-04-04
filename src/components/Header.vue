@@ -5,6 +5,7 @@
         <li><RouterLink to="/">Главная</RouterLink></li>
         <li><RouterLink to="/products">Товары</RouterLink></li>
         <li><RouterLink to="/about">О компании</RouterLink></li>
+        <li><RouterLink to="/weather">Погода</RouterLink></li>
       </ul>
     </nav>
   </header>
